@@ -1,0 +1,24 @@
+{
+  "name": "helpers",
+  "version": "0.0.0",
+  "description": "A few convenience functions for strings and arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimeMagazine/helpers"
+  },
+  "keywords": [
+    "JavaScript",
+    "arrays",
+    "strings"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimeMagazine/helpers/issues"
+  },
+  "homepage": "https://github.com/TimeMagazine/helpers"
+}
